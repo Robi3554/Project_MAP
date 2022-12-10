@@ -77,6 +77,8 @@ bool solve()
 
 int main()
 {
+	cout << "\t\t\t\t\t\tWelcome to the 8 Queens Problem!\n\n";
+	
 	solve();
 	return 0;
 }
