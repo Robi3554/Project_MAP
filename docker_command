@@ -1,0 +1,1 @@
+docker run --rm --name MAP_Project robi35/my-gcc-app
